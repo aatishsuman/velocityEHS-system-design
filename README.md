@@ -12,3 +12,4 @@ Partial POC of the system design question of the velocityEHS interview.
   - For each page containing a table, a folder containg the images and the text of the extracted tables and cells.
 - The _review.csv_ file contains the Review sheet of the model output received from the interviewer. It is used to train the classification model.
 - The _classification_model.ipynb_ file contains the code for training the classification model and the functions for generating the _Referable Conditions_ and the _Requirement Description_ columns.
+- The _systemDesign.docx_ contains the steps for the system design.

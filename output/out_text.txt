@@ -1,0 +1,468 @@
+
+                               PERMIT TO OPERATE 
+                         AIR POLLUTION CONTROL FACILITY 
+                              SPECIFIC CONDITIONS 
+
+            Terra Nitrogen, LP                                   Permit No. 2011-006-TVR2 (M-8) 
+            Verdigris Nitrogen Plant — Claremore Nitric Acid, Ammonia, and UAN Plants 
+
+              The permittee is authorized to operate in conformity with the specifications submitted to Air 
+              Quality on July 7, 2015, and supplemental information recetved September 3, 2015, April 28, 
+              2016, and January 31, 2018. The Evaluation Memorandum    dated March  12, 2018, explains the 
+              derivation of applicable permit requirements and estimates of emissions; however, it does not 
+              contain limitations or permit requirements. Continuing operations under this permit constitutes 
+              acceptance of, and consent to the conditions contained herein. 
+
+              1. Point of emissions and applicable emission limitations. Particulate matter (PM) data refer to 
+                 total PM, meaning  filterable and condensable or front half and back half, unless otherwise 
+                 indicated.                                                        [OAC  252:100-8-6(a)(1)] 
+
+             EUG1    _  Plant-wide 
+             This EUG   is established to address those rules or regulations that apply to the entire facility, 
+
+              including such rules as open burning or fugitive dust. 
+
+           EUG2    ‘Package Boilers 
+
+                A.  Fuel usage of the boilers shall not exceed a total of 744 MMSCEF per year natural gas. 
+                B.  These boilers are affected facilities under 40 CFR 63 Subpart DDDDD, and shall comply 
+                    with the requirements of items 3 and 4 of Table 3 of DDDDD, performing annual tune- 
+                    ups and an initial energy assessment. 
+
+          EUG3   NSPS Boiler 
+
+          SPECIFIC  CONDITIONS  2011-006-TVR2 (M-8)                             2 
+
+> 
+
+                   . Fuel usage of the boiler shall not exceed 1,021 MMSCF per year. 
+                     The boiler is subject to federal New Source Performance  Standards, 40 CFR   Part 60, 
+                     Subpart Db,  and  shall comply  with all applicable requirements, including, but not 
+                     necessarily limited to those conditions shown in subparagraphs C, D, E, and F following. 
+                     (NOTE:   Permit  limitations are more stringent than Db limitations and will result in 
+                     compliance with Subpart Db.)                          [40 CFR  60.40b through 60.49b] 
+                 C.  The permittee shall comply with NOx emission limitations in 40 CFR 60.44b. The boiler 
+                     shall not discharge into the atmosphere any gases that contain nitrogen oxides (expressed 
+                     as nitrogen dioxide) in excess of 0.20 lbs/MMBTU.            [40 CFR 60.44b(a)(1) a1) | 
+                     The permittee shall comply with the emission monitoring standards of 40 CFR 60.48b. 
+                     The permittee shall comply with the reporting and recordkeeping requirements of 40 CFR 
+                     60.49b. 
+                 F,  Performance testing of the D Boiler to demonstrate compliance  with nitrogen dioxide 
+                     emission limitations shall be done on the basis of the average emission rates for NOx 
+                     over each  30  successive boiler operating days, a  30-day rolling average.   At  the 
+                     conclusion of a boiler operating day following the initial performance testing, data points 
+                     from the leading day shall be deleted and data points for the new day added to develop 
+                     new rolling average values for NOx emission  rates. During periods when performance 
+                     testing is not occurring, these results shall be used to identify and calculate excess 
+                     emissions. Exceedances  for each 24-hour period shall be reported to Air Quality every 
+                     calendar quarter.                          (40 CFR  60U.46b(e)(4) and OAC 252: 1 UU-2] 
+                 G.  This boiler is an affected facility under 40 CFR 63 Subpart DDDDD,  and shall comply 
+                     with the requirements of items 3 and 4 of Table 3, performing annual tune-ups and an 
+                     initial energy assessment. 
+
+TIO 
+
+            EUG 4    Gas Turbine 
+
+                               ~* Combined  limit with Nitric Acid Plant #1, see EUG 6. 
+
+                 A.  The gas turbine is subject to federal New Source Performance Standards, 40 CFR Part 60, 
+                     Subpart GG,  and shall comply with all applicable requirements. Note that NOx standards 
+                     are overridden by the allernalive emissions reduction agreement. 
+                                                                             [40 CFR  60, OAC  252:100-11] 
+                 B.  SO   emissions shall not exceed 150 ppm,  dry-basis, corrected to 15% oxygen   (NOTE: 
+                     permit emission limitations are more stringent than this limitation). [40 CFR 60.333(a)] 
+                 C.  Monitoring  of fuel sulfur content is not required when  a gaseous fuel is fired in the 
+                     turbine and the owner or operator demonstrates that the gaseous fuel meets the definition 
+                     of "natural gas" using one of the methods in §60.334(h)(3)(@) or (i). Paragraph 60.331 
+                     defines natural gas as containing 20 grains or less of total sulfur per 100 standard cubic 
+
+           SPECIFIC CONDITIONS   2011-006-TVR2 (M-8)                             3 
+
+                     feet and is either composed of at least 70 percent methane by volume  or has a gross 
+                     caloric value between 950 and 1100 BTU/sctf.                   [40 CFR60.334(h)(3)] 
+
+                   . The  permittee shall monitor fuel flow  to the Gas Turbine  on a continuous  basis and 
+
+                     reduce the data to monthly average values.                         [OAC  252:100-43] 
+                     The  gas turbine shall be operated with control technology sufficient to meet the NOx 
+                     limitations described above. Performance testing adequate to demonstrate that the NOx 
+                     limit can be  achieved shall be performed   for the control technology utilized.  The 
+                     performance  test shall be performed for each renewal (every five years) of the Title V 
+                     permit and the results shall be provided with each application for renewal. 
+                     Reference Method  performance  testing of particulate emissions shall be performed during 
+                     the term of the Part 70 renewal permit, with results to be included in the next renewal 
+                     application.                                                       [OAC  252:100-43] 
+
+         EUG5   Condensate Strippers 
+
+             The VOC   shown in the immediately preceding table is principally methanol. 
+
+A. 
+
+                     At least once  per month,  the permittee shall conduct  testing of VOC  (as Methanol) 
+                     concentrations in liquid feed to the Process Condensate Stripper. At  the option of the 
+
+                     permittee, the concentrations in the discharges may also be monitored. 
+                                                                                    [Permit No. 99-083-TV] 
+
+                   . The volume  of feed to the unit shall be monitored and recorded at least on a monthly 
+
+                    basis.                                                       [Permit No. 99-083-TV] 
+                  . Measurements  of inlet VOC (as Methanol) concentrations and feed rates shall be used to 
+                    determine VOC   emissions each month.                        [Permit No. 99-083-TV | 
+                        Nitric Acid Plants 
+
+EUG 6 
+
+                                           *Combined   limit with EUG    4, based  on  alternative 
+                                           emission reduction plan (AER) 
+
+          SPECIFIC  CONDITIONS  2011-006-TVR2 (M-8)                             4 
+
+                 A. Nitric Acid Plant No. 2 is subject to 40 CFR Part 60 NSPS  Subpart G,  including the 
+                    following.                                [40 CFR  60 Subpart G and OAC  252:100-2] 
+
+                    i.  Opacity of emissions from the Nitric Acid Plant No. 2 shall not exceed 10 percent. A 
+                        correlation between concentrations of NOx and  opacity has shown that the opacity 
+                        will not exceed 10% at concentrations up to and exceeding the ppm limits established 
+                        under Subpart G.  Thus, the existing monitoring of ppm NOx concentrations through 
+                        CEMs   is sufficient to demonstrate compliance  with the opacity standard  of the 
+                        subpart.                                                     [40 CFR 60.72(a)(2)] 
+                    ii. NOx  emissions shali not exceed 3.0 Ibs/ton of 100% nitric acid produced, as a 3-hour 
+                        average.                                                     [40.CFR 60.72(a)(1)| 
+                    iii. NOx emissions  from the Nitric Acid plants shall be monitored with a continuous 
+                        emissions monitoring system (CEMS).                            [40.CFR  60.73(a)| 
+                    iv. Except as discussed in Subcondition D below, NOx emission rates shall be calculated 
+                        using the correlations developed from annual performance testing as required by the 
+                        consent decree. To determine compliance with the 3.0 lbs/ton of acid produced limit, 
+                        the CEMS  data shall be reduced to 3-hour averages.            [40 CFR  60.73(b)] 
+
+                 B. Beginning  June 30, 2016, compliance  with the AER  NOx  emission  limit of 75.77 lb/hr 
+                     and 224.4 TPY  for the combined emission from  Nitric Acid Plant No. 1 of EUG  6 and 
+                     gas turbine of EUG 4 shall be determined on the basis of 12-month rolling totals. 
+
+                 C. Nitric Acid Plant No. 1 is subject to 40 CFR Part 60 NSPS  Subpart Ga, including the 
+                    following.                               [40 CFR  60 Subpart Ga and OAC  252:100-2] 
+
+                     i, On  and after the date on which the performance  test required to be conducted by 
+                        §60.73a(e) is completed, emissions of NOx, expressed as NOz, shall not exceed 0.50 
+                        pounds per ton of nitric acid produced, as a 30-day emission rate calculated based on 
+                        30 consecutive operating days. The emission standard applies at all times. 
+                                                                                         [40 CFR  60.72a] 
+                    ii. NOx   emissions from the Nitric Acid Plants shall be monitored with  a continuous 
+
+                         emissions monitoring system (CEMS).                                [40 CFR  60.72a] 
+                     ili. A stack gas flow rate monitoring system shall be installed.    [40 CFR  60.73a(a)| 
+                     iv. Acid production  expressed  as 100%   nitric acid, and hours of  operation shall be 
+                         recorded.                                                       [40 CFR  60.73a(c)] 
+
+                 D. Provisions of Consent Decree No. 11-4038  (CD  11-4038) became  effective on June 30, 
+                    2013  for short term emission limits and on June 30, 2014 for long term limits, all with 
+                    respect to Nitric Acid Plant #2. Provisions of CD 11-4038 became effective on June 30, 
+                    2014  for short term emission limits and on June 30, 2015 for long term limits, all with 
+                    respect to Nitric Acid Plant #1. Pursuant to CD 11-4038, emissions of NOx   shall not 
+                    exceed the following limits. 
+
+                     i,  Short-term NOx   limit of 1.0 lb/ton nitric acid produced (with the production being 
+                         expressed as 100 percent nitric acid) based on a rolling 3-hour average (rolled hourly) 
+                         excluding periods of start-up, shutdown, and malfunction. 
+
+           SPECIFIC CONDITIONS   2011-006-TVR2 (M-8)                             5 
+
+                    ii. Long-term  NOx  limit of 0.6 lb/ton nitric acid produced (with production being 
+                        expressed as 100 percent nitric acid) based on a rolling 365-day average (rolled daily) 
+                        including periods of startup, shutdown, and malfunction. 
+                    iii. Compliance with short-term and long-term NOx limits shall be determined based on 
+                        continuous  emissions monitoring   conducted  in accordance   with the  CEMS 
+                        Monitoring Plan for NOx Emissions included as Attachment C of CD 11-4038. 
+                    iv. The NOx  shall not exceed 200 ppmvd during normal operation and shall not exceed 
+                        5,000 ppmvd as determined by CEMS  during startups, shutdowns, and malfunctions. 
+                    v.  The above NOx  emissions requirements applicable to each Covered Nitric Acid Plant 
+                       were  established pursuant to a negotiated Consent Decree with EPA and shall not be 
+                       relaxed without the approval of EPA and ODEQ.          [Consent Decree 11-4038] 
+                    vi. The CD   established a CEMS   Monitoring  Plan  that consists of sections titled: 
+                       Principles; Definitions; Emissions Monitoring; Production Data; Conversion Factor; 
+                       Emissions   Calculations; Rounding   of  Numbers   resulting from  Calculations; 
+                       Compliance   with Consent  Decree  NOx  Limits;  Retention  of All CEMS   Data, 
+                       including Data during Startup, Shutdown, and Malfunction; Analyzer Specifications; 
+                       and  Compliance  with NSPS   40  CFR60,  Subpart  G.  Each  of these sections is 
+                       described in the following paragraphs. 
+
+                 Principles This CEMS   Plan is the mechanism for determining compliance with the short- 
+                 term and long-term NOx  limits applicable to each covered nitric acid plant and is used to 
+                 evaluate the compliance status with the NSPS NOx  limits. The methodology  described in 
+                 this CEMS  Plan will provide a continuous indication of compliance with these limits by 
+                 accurately determining the emission rate in terms of pounds of NOx emitted per ton of 100% 
+                 nitric acid produced (Ib/ton) as a rolling 3-hour average and as a rolling 365-day average. 
+                 The CEMS    will utilize equipment to measure  stack NOx   concentration and the stack 
+                 volumetric flow  rate.  From   these data, real-time, accurate, and  quality controlled 
+                 measurements of the mass NOx emission rate can be obtained. 
+                 Definitions Terms used in this CEMS Plan that are defined in the Clean Air Act (CAA) or in 
+                 federal or state regulations promulgated pursuant to the CAA   shall have the meaning 
+                 assigned to them in the CAA or such regulations, unless otherwise defined in the CD. The 
+                terms used in this CEMS  Plan that are defined in the CD shall have the meaning assigned to 
+                them  therein. The following definitions specifically apply for purposes of this CEMS Plan. 
+                  e   “CEMS”    or “Continuous   Emissions  Monitoring  System”   shall mean  the  total 
+                  equipment  required under this CEMS Plan used to sample and condition (if applicable), to 
+                  analyze, and to provide a permanent record of emissions or process parameters. 
+                  e   “Day,” “day,” or “calendar day” shall mean a calendar day. 
+                  e   “Long-Term  NOx   Limit” shall mean a 365-day  rolling average NOx emission  limit 
+                  (rolled daily) expressed as pounds of NOx emitted per ton of 100% nitric acid produced 
+                  (lb/ton); compliance with the Long-Term NOx Limit shall be calculated in accordance with 
+                  this CEMS  Plan. The Long-Term  NOx   Limit applies at all times, including during periods 
+                  of startup, shutdown, or malfunction (SSM). 
+                  e   “Malfunction” shall mean, consistent with 40 CFR 60.2, any sudden, infrequent, and 
+                  not reasonably preventable failure of air pollution control equipment, process equipment, or 
+                  a process to operate in a normal or usual manner, but shall not include failures that are 
+                  caused in whole or in part by poor maintenance or careless operation. 
+
+          SPECIFIC  CONDITIONS  2011-006-TVR2 (M-8)                             6 
+
+                   e  “NSPS  NOx  Limit” shall mean the NOx emission limit expressed as 1.5 kg of NOx per 
+                   metric ton of 100% nitric acid produced (3 lb per ton) specified at 40 CFR 60.72(a)(1). 
+
+                      “NOx”  shall mean the pollutant nitrogen oxides. For the purpose of calculating mass 
+                   mission rataa NOK  hag Le | molecular Wet oht of 46 ADSS Th/lh-mal 
+
+                    mission rates, NOx has a molecular weight of 46.0055 |b/lb-mol. 
+                      “NOx   stack analyzer” shall mean  that portion of the CEMS   that senses NOx   and 
+                   generates an output proportional to the NOx concentration. 
+                   e  “100%   nitric acid produced”   shall mean  the  quantity of a  nitric acid product 
+                   manufactured by the nitric acid plant multiplied by the concentration of actual nitric acid in 
+                   the product. For example, if the nitric acid plant produces 100 tons of a 54% nitric acid 
+                   product, this equals 54 tons of 100% nitric acid produced. 
+                   e  “QOne-hour period” and “1-hour period” shall mean any 60-minute period commencing 
+                   on the hour. 
+                   «  “One-minute   measurement”   shall mean  any  single measurement  or  the arithmetic 
+                   average of multiple measurements of a parameter during a one-minute period on the clock. 
+                   e  “Operating  Periods” shall mean  periods during which  a covered nitric acid plant is 
+                   producing nitric acid and NOx 1s emitted, including periods of SSM. 
+                   e  “Short-Term  NOx   Limit”  shall mean a 3-hour  rolling average NOx  emission  limit 
+                   (rolled hourly) expressed in terms of pounds of NOx emitted per ton of 100%  nitric acid 
+                   produced  (b/ton); compliance  with the Short-Term  NOx   Limit  shall be calculated in 
+                   accordance with  this CEMS   Plan.  The Short-Term  NOx   Limit does  not apply during 
+                   periods of SSM. 
+                   e  “Shutdown”   shall mean the cessation of nitric acid production operations of a covered 
+                   nitric acid plant for any reason. Shutdown begins at the time the feed of ammonia to the 
+                   covered nitric acid plant ceases and ends 3 hours later. 
+                   e  “Stack flowmeter”  shall mean that portion of the CEMS that senses the volumetric flow 
+                   rate and generates an output proportional to that flow rate. 
+                   e  “Startup” shall mean  the process of initiating nitric acid production operations of a 
+                   covered nitric acid plant. Startup begins one hour prior to the initiation of the feed of 
+                   ammonia   to the covered nitric acid plant and ends no more  than five hours after such 
+                   initiation of the feed of ammonia. 
+                   e  “Ton”  or “tons” shall mean short ton or short tons. One ton equals 2,000 pounds. 
+                 Emissions  Monitoring   Emissions  monitoring under this CEMS  Plan will be done using a 
+                 NOx   stack analyzer and a stack flowmeter on each  covered nitric acid plant. Except for 
+                 periods of CEMS  breakdowns,  analyzer malfunctions, repairs, and required quality assurance 
+                 or  quality control activities Gncluding calibration checks and required  zero and  span 
+                 adjustments), operator will conduct continuous monitoring pursuant to this CEMS   Plan at 
+                 each covered nitric acid plant during all operating periods as follows. 
+                   e  Once  every minute, the NOx  stack analyzer will measure the stack NOx concentration, 
+                   in parts per million by volume, dry basis (ppmvd) and the stack flowmeter will measure the 
+                   volumetric flow rate in dry standard cubic feet per minute (dscfm). For the purposes of the 
+                   calculations under this CEMS   Plan, as-is volumetric flow  rate measurements  will be 
+                   assumed  to be dry, unless the covered nitric acid plant is equipped with a continuous 
+                   moisture analyzer, in which case the plant may adjust for moisture contained in the stack 
+                   gas. 
+
+e@ od ® 
+
+          SPECIFIC  CONDITIONS  2011-006-TVR2 (M-8)                             7 
+
+                   e  For  every  1-hour period, the CEMS   will reduce  the 60 one-minute  measurements 
+                   generated  by  each  analyzer by  taking  the arithmetic average  of  the previous  60 
+                   measurements  during the l1-hour period. This datum will be used to calculate the 3-hour 
+                   average NOx  emission rate. 
+                 Backup  Monitoring  Procedure for Long-Term   NOx  Limit In the event that the NOx  stack 
+                 analyzer and/or stack flowmeter is/are not available or is/are out-of-control, the following 
+                 backup monitoring  procedure will be implemented. 
+                   e  Other than as specified below for a CEMS  outage or out-of-control period less than 24 
+                   consecutive hours, data gaps in the array will be filled by complying with the following 
+                   requirements. 
+                     o  Exit stack gas will be sampled and  analyzed for NOx  at least once every three (3) 
+                     hours during all operating periods. Sampling  will be conducted  by making   physical 
+                     measurements  of the NOx   concentration in the  gas stream to the main  stack using 
+                     alternative/non-CEMS  methods  (e.g., through the use of a portable analyzer or non- 
+                     certified NOx stack analyzer). The reading obtained will be substituted for the 180 (or 
+                     less) one-minute measurements   that would  otherwise be utilized if the CEMS   were 
+                     operating normally. Alternatively, the required sampling and analysis may be conducted 
+                     using a redundant certified NOx analyzer. 
+                     o  Stack volumetric flow rate will be estimated using engineering judgment. 
+                   e  During  required quality assurance or quality control activities (including calibration 
+                   checks and required zero and  span adjustments) of the CEMS   and  stack flowmeter, the 
+                   previous calendar day average value may be utilized to fill in the data gaps. 
+                   e  If either or both of the CEMS  or stack flowmeter is/are not operating for a period of 
+                   less than 24 consecutive hours due to breakdowns, malfunctions, repairs or out-of-control 
+                   period of the same, the previous calendar day average value may be utilized to fill in the 
+                   data gaps. 
+                 Production  Data    Following  each calendar  day at each  covered nitric acid plant, the 
+                 permittee shall record the quantity of nitric acid produced during that day and the average 
+                 strength of the nitric acid produced during that day. This information will be used to calculate 
+                 100%  nitric acid produced for that day, in units of tons per day. 
+                 Conversion  Factor  During each required performance test for each covered nitric acid plant 
+                 required under Paragraph 24  of the CD, the permittee shall develop a conversion factor in 
+                 units of lb/ton of 100% nitric acid produced per ppmvd, consistent with 40 CFR 60.73(b). 
+                 Emissions  Calculations 
+                 Rolling 3-hour average  Compliance   with the Short-Term NOx   Limit shall be based on a 
+                 rolling 3-hour average (rolled hourly). For purposes of calculating a rolling 3-hour average 
+                 NOx  emission rate, the CEMS will maintain an array of the three most recent and contiguous 
+                 1-hour period average measurements of stack NOx  concentration. Every hour, it will add the 
+                 most recent 1-hour period average measurement  to the array and exclude the oldest 1-hour 
+                 period average  measurement.    Data  generated using  the backup  monitoring  procedure 
+                 specified above need not be included in this calculation. 
+                 The rolling 3-hour average lb/ton NOx emission  rate (E3hravg) will then be calculated every 
+                 hour using the following equation. 
+                                            E3hravg = K/3 x 72,  CNOxi , where: 
+                      Cnoxi = arithmetic average of 60 one-minute measurements of stack NOx concentration, 
+                      ppmvd,  in a 1-hour period; 
+
+          SPECIFIC  CONDITIONS  2011-006-TVR2 (M-8)                             8 
+
+                      K  = conversion factor determined during most recent NOx performance  test (Ib/ton of 
+                       100% nitric acid produced per ppm); 
+                      E3hrave = 3-hour average lb NOx per ton 100% nitric acid produced. 
+                 Rolling 365-day average   Compliance  with the Long-Term  NOx  Limit shall be based on a 
+                 rolling 365-day average (rolled daily). For purposes of calculating the 365-day average NOx 
+                 emission rate each calendar day at each covered nitric acid plant, the permittee shall maintain 
+                 an array of mass emissions (lb/day) of NOx calculated using the following equation and the 
+                 100%  nitric acid produced for that day (tons/day) and for the preceding 364 days, shall be 
+                 maintained. Each  subsequent day, the data from that day shall be added to the array, and the 
+                 data from the oldest day shall be excluded. 
+                 For purposes of calculating daily mass emission rate, the CEMS  will maintain an array of 
+                 each one-minute  measurement  of the NOx  concentration (ppmvd)  at the exit stack and of 
+                 each one-minute  measurement  of volumetric flow rate (dscfm) of the exit stack over each 
+                 day. In the event that one or more of the CEMS and stack flowmeter is/are not available, the 
+                 backup monitoring procedure discussed above will be used to fill in the gaps. 
+                 Following  each calendar day, the daily NOx  mass  emissions will be calculated using the 
+                 following equation. 
+
+                                  Mnoxbay  = 1.193 x 107 x  ¥7_, QStackiCNOxi , where: 
+                      Cnoxi = one-minute measurements of Bea  NOx  concentration, ppmvd, at interval “1”; 
+                      Qstacki = one-minute measurements of stack volumetric flow rate, dscfm, at interval “1”; 
+                      1.193 x 10°’ = conversion factor in units of pounds per standard cubic foot (Ib/scf) of 
+                      NOx  per ppm; 
+                      Mnoxpay  = mass emissions of NOx during a calendar day, pounds; 
+                      n= number  of minutes of operating period in a calendar day. 
+
+                  Following each calendar day, the NOx  emission rate averaged over a rolling 365-day period 
+                  as lb/ton, shall be calculated using the following equation. 
+
+                                     E365-Dayave = 322, MNOxDayd  = 913°, Pd, where: 
+                      MnoxDayd = Mass emissions of NOx during calendar day “d”, pounds; 
+                      Pa = 100% nitric acid produced during calendar day “d”, tons; 
+                      E365-Dayave  365-day rolling avcrage lb NOx per ton of 100% nitric acid produced. 
+
+                 Rounding  of Numbers   Resulting from Calculations  Upon  completion of calculations, the 
+                 final numbers for E3nravg shall be rounded to the nearest tenth, and the final numbers for 
+                 E36sDayavg Shall be rounded to the nearest hundredth. The numbers 5 through nine shall be 
+                 rounded up and the numbers | through 4 shall be rounded down. 
+                 Compliance  with Consent  Decree NOx   Limits 
+                 Short-Term NOx   Limits Short-term limits do not apply during periods of SSM. During all 
+                 other operating periods, a covered nitric acid plant will be in compliance with the Short-Term 
+                 NOx  Limit specified in the CD if Esnrayg does not exceed 1.0 lb of NOx per ton of 100% nitric 
+                 acid produced. If the permittee contends that any 3-hour rolling average emission rate is in 
+                 excess of 1.0 Ib/ton due to the inclusion of hours of SSM in the 3-hour period, Esnravg shall be 
+                 recalculated to exclude measurements recorded during the periods of the claimed SSM(s). 
+                 Nothing  in this CEMS  Plan  shall preclude the use, including the exclusive use, of any 
+
+           SPECIFIC CONDITIONS   2011-006-TVR2 (M-8)                             9 
+
+                 credible evidence or information relevant to whether a covered nitric acid plant would have 
+                 been  in compliance  with  the short-term limit if the appropriate performance  test or 
+                 compliance procedure had been performed. 
+                 NSPS  NOx   Limits  The NOx   limit of NSPS Subpart G  does not apply during periods of 
+                 SSM.   During all other operating periods, Plant No. 2 will be in compliance with the NOx 
+                 limit of NSPS Subpart G if E3nravg does not exceed 3.0 Ib of NOx per ton of 100% nitric acid 
+                 produced.  If the permittee contends that any 3-hour rolling average rate is in excess of 3.0 
+                 Ib/ton due to the  inclusion of hours of SSM,   E3nravg shall be recalculated to exclude 
+                 measurements  recorded during the periods of the claimed SSM. Nothing in this CEMS Plan 
+                 shall preclude the use, including the exclusive use, of any credible evidence or information 
+                 relevant to whether Plant No. 2 would have been in compliance with the NOx limit of NSPS 
+                 Subpart G if the appropriate performance test or compliance procedure had been performed. 
+                 Long-Term  NOx   Limits  Long-term  limits apply at all times, including during periods of 
+                 SSM.   A  covered nitric acid plant will be in compliance with the Long-Term NOx Limit 
+                 specified in the CD if E365-payaveg does not exceed 0.6 lb of NOx per ton of 100% nitric acid 
+                 produced. 
+                 Retention of All CEMS   Data, including Data during SSM   All data generated by the NOx 
+                 analyzer and stack flowmeter, including all data generated during SSM at each covered nitric 
+                 acid plant shall be retained in accordance with Section XI of the CD. 
+                 Analyzer  Specifications The NOx   stack analyzer and the stack flowmeter required under 
+                 this CEMS  Plan at each covered nitric acid plant shall meet the following specifications. 
+
+                 The NOx  stack analyzer shall meet all applicable requirements of 40 CFR §§60.11 and 60.13, 
+                 and Appendix  B, Performance Specification 2, as well as the Quality Assurance and Quality 
+                 Control Procedures of 40 CFR 60 Appendix  F, Procedure 1. The daily drift test requirement 
+                 at 40 CFR  60.13(d) and the requirements of Appendix F apply to only the normal range of 
+                 the NOx  stack analyzer. The SSM  range of the NOx stack analyzer shall be evaluated once 
+                 each calendar quarter to verify accuracy. 
+                 The stack flowmeter shall meet 40 CFR  60, Appendix  B, Performance Specification 6, and 
+                 shall be evaluated once each quarter and during the RATA   of the NOx  stack analyzer to 
+                 verify accuracy. 
+                 Compliance  with  NSPS  40  CFR  60, Subpart  G   In addition to the requirements in this 
+                 CEMS   Plan, Plant No. 2 shall comply with all of the requirements of Subpart G that apply to 
+                 Plant No. 2, except that pursuant to 40 CFR 60.13(i), this CEMS Plan will supersede the 
+                 following provisions of Subpart G. 
+                  e   ‘The requirement of 40 CFR 60.73(a) that the NOx stack analyzer have a span value of 
+                  500 ppm.   Span values listed in the Analyzer Specifications table of this CEMS Plan shall 
+                  be used in lieu of Subpart G values. 
+                  e   The requirement  at 40 CFR  60.73(a) that pollutant gas mixtures under Performance 
+                  Specification 2 and for calibration checks under 40 CFR   60.13(d) be nitrogen dioxide 
+
+          SPECIFIC  CONDITIONS   2011-006-TVR2 (M-8)                            10 
+
+                   (NO2).  Plant No. 2 shall use calibration gases containing NO and/or NO2 as appropriate to 
+                   assure accuracy of the NOx stack analyzer except where verified reference cells are used in 
+                   accordance with Performance  Specification 2. 
+
+          EUG7     Urea-UAN Plants 
+
+                 A. Ammonia   neutralizer operations of each plant shall be maintained in the following 
+                 ranges.                                                         [OAC   252:100-8-6(a)] 
+                    1. pH  of 4.0 or lower 
+                    2. Maximum   temperature of 215°F for discharges from the neutralizers’ stack outlets. 
+
+                  B. Particulate emissions from the #1 UAN  Plant shall be controlled by a condenser/evaporator 
+                  system.  At such times that the condenser/evaporator system is not operating and the bypass 
+                  valve is open at Plant #1 and at all times at Plant #2, air exhausts from the UAN plants shall be 
+                  processed by mist  eliminators or equivalent systems with 80%   or better efficiency for PM 
+                  emissions control. The #1 and  #2 UAN   plant mist eliminators shall be operated at a pressure 
+                  differential of at least 2 inches WC. The  permittee shall monitor the operating parameters 
+                  (pressure differential for mist eliminators or equivalent parameters tor equivalent devices) at 
+                  least once per day. If the operating parameters (pressure differential) are monitored more than 
+                  once daily, a daily average of the operating parameters must  be calculated for determining 
+                  compliance. 
+
+                 C.  The #1 UAN   Plant by-pass valve position shall be monitored and recorded daily. 
+                                                                                    [OAC   252:100-8-6(a)] 
+
+          EUG8    Ammonia Plant Primary Reformers 
+
+           SPECIFIC CONDITIONS   2011-006-TVR2 (M-8)                            11 
+
+                 A.  The permittee shall monitor and record natural gas flow to the auxiliary burner sections 
+                 of the #1 Primary Reformer  and the #2 Primary Reformer.  Daily records of the natural gas 
+                 usage rate shall be maintained for each of the auxiliary burner sections. 
+                 B.  Plant #2 is subject to the emission limitations listed on the second line of the preceding 
+                 table (10291e) until completion of the burner replacement project authorized by modified 
+                 permit 2006-003-TVR   (M-8).  Upon  completion of these projects, Plant #2 will be subject to 
+                 the emission limitations listed in the third line of the table (10291p). 
+                 C.  Reference  Method  performance   testing of all pollutants with authorized emissions 
+                 exceeding 250  TPY  but not exceeding 500 TPY  (CO)  shall be performed no less frequently 
+                 than  every alternate year, such as every  even-numbered   or every  odd-numbered   year. 
+                 Reference Method  performance  testing of all pollutants with authorized emissions exceeding 
+                 500  TPY  (PMio, PM2.s, SO2z, and NOx)  shall be performed  in each of the five 12-month 
+                 periods following the issuance date (August 28, 2013) of Part 70 renewal permit 201 1-006- 
+                 TVR2,   with results to DEQ within  60 days of each test. Reference  method  performance 
+                 testing of pollutants with authorized emissions less than 250 TPY (PMio, PM25, and SOz2 for 
+                 the Plant #1 Primary Reformer and VOC  for both reformers) is not required. 
+
+           EUG9    Ammonia Plant Start-up and Shutdown Vents 
+
+                     Emissions  of CO  from  these points shall be reported on  the facility annual emission 
+                     inventory. 
+
+            EUG  10  Vents 
+
+             The VOC  shown  in the immediately preceding table is principally methanol. 
